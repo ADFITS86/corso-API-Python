@@ -7,7 +7,7 @@ for p in voti:
     corso={
         "nome": "web dev",
         "studenti":[
-            {"nome": "Luca", "id":1}
+            {"nome": "Luca", "id":1},
             {"nome": "Sara", "id":2}
         ]
     }
